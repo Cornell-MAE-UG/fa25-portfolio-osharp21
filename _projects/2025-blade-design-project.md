@@ -26,5 +26,4 @@ Blades were tested in the wind tunnel using a torque brake and controlled operat
 I developed and owned the MATLAB-based BEM power-curve pipeline and the Weibull-weighted comparison method used to screen candidate designs. I ran parameter sweeps (including twist iterations and Ω sweeps), generated predicted power curves, and used the results to support selection of the final twist strategy and operating speed target.
 
 **Wind-tunnel testing photos:**  
-![Wind tunnel photo]({{ "/assets/images/blade_test_photo_1.jpg" | relative_url }})
 <img src="{{ '/assets/images/blade_test_photo_1.jpg' | relative_url }}" alt="Wind tunnel photo" style="width: 520px; max-width: 100%; height: auto;">

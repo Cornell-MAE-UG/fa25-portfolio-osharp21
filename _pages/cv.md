@@ -8,9 +8,6 @@ permalink: /cv/
 
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
-**Email:** [ods22@cornell.edu](mailto:ods22@cornell.edu) | **Phone:** 475-299-6206  
-**US Citizen** | **Security Clearance:** Interim Secret (Inactive)
-
 ---
 
 #### Education

@@ -16,7 +16,7 @@ permalink: /cv/
 #### Education
 - **Cornell University**, Ithaca, NY  
   *B.S. Mechanical Engineering; Minor in China & Asia-Pacific Studies*  
-  **Expected Graduation:** May 2026 | **GPA:** 3.1/4.0
+  **Expected Graduation:** May 2026
 
 - **Technical University of Denmark (DTU)**, Lyngby, Denmark  
   *Exchange Student* — Spring 2025
@@ -67,4 +67,4 @@ permalink: /cv/
 ---
 
 #### Memberships & Activities
-ASME Member | Heritage Chair, Pi Kappa Phi Fraternity | Cornell Boxing Club
+ASME Member | Pi Kappa Phi Fraternity | Cornell Boxing Club

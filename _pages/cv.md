@@ -3,72 +3,68 @@ layout: default
 title: Owen Sharp - Curriculum Vitae
 permalink: /cv/
 ---
+
 ## Curriculum Vitae
 
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
-
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
-
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+**Email:** [ods22@cornell.edu](mailto:ods22@cornell.edu) | **Phone:** 475-299-6206  
+**US Citizen** | **Security Clearance:** Interim Secret (Inactive)
 
 ---
 
 #### Education
-- **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+- **Cornell University**, Ithaca, NY  
+  *B.S. Mechanical Engineering; Minor in China & Asia-Pacific Studies*  
+  **Expected Graduation:** May 2026 | **GPA:** 3.1/4.0
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **Technical University of Denmark (DTU)**, Lyngby, Denmark  
+  *Exchange Student* — Spring 2025
 
----
-
-#### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+**Relevant Coursework:** Space Systems Engineering; Finite Element Analysis for Mechanical & Aerospace Design; Thermodynamics; System Dynamics; Heat & Mass Transfer; Stochastic Adaptive Controls
 
 ---
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+#### Technical Skills
+- **CAD:** SolidWorks, Fusion 360  
+- **Simulation / Analysis:** ANSYS, COMSOL, MATLAB/Simulink, LabVIEW  
+- **Programming:** Python, Java, JavaScript  
+- **Systems / Tools:** Linux, PuTTY, Microsoft Office, oscilloscopes, DMMs  
+- **Additional:** Familiarity with aerodynamics, orbital mechanics, flight mechanics, propulsion systems, aerospace materials (Al/Ti alloys, carbon fiber composites), vibration analysis, test scripting  
+- **Language:** Mandarin Chinese (oral proficiency)
 
 ---
 
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+#### Experience
+- **Lockheed Martin – Rotary & Mission Systems**, Liverpool, NY  
+  *Systems Engineering Intern* | June–August 2025  
+  - Supported radar regression testing and data-collection events; improved test procedures and checklists for clarity and repeatability  
+  - Built/maintained analysis tools for radar data (bug fixes, automated summaries, visuals) to speed up troubleshooting and anomaly identification
+
+- **Sensata Technologies**, Attleboro, MA  
+  *Mechanical Design Intern* | June–August 2024  
+  - Designed and prototyped an EV battery component to improve current-carrying performance and reduce cost  
+  - Created SolidWorks CAD and built a test rig to capture temperature and electrical resistance data for 24 prototypes simultaneously  
+  - Analyzed test data and performed structural analysis to guide design changes; produced BOMs, cost estimates, and technical deliverables for review
+
+- **Avedisian Fuel Combustion Lab (Cornell University)**, Ithaca, NY  
+  *Research Assistant* | January–May 2024  
+  - Reinforced experimental apparatus for repeated high-impact testing supporting microgravity combustion studies  
+  - Investigated soot formation in droplet combustion; collected data supporting peer-reviewed publication work
 
 ---
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+#### Selected Project Work
+- **ODIN Arctic Surveillance Mission (DTU Space Systems Engineering Final Project)** | May 2025  
+  - Designed onboard flight computer architecture for sequencing, payload tasking, data handling, and TT&C; integrated with ADCS, EPS, and comms subsystems  
+  - Developed thermal control strategy (MLI, radiator sizing, conduction paths) to keep avionics and SAR within operational limits  
+  - Delivered a Pre-Phase A concept for a dual-satellite C/X-band SAR mission to an industry review panel
+
+- **Satellite Attitude Controller Simulation (Cornell System Dynamics Final Project)** | December 2024  
+  - Modeled and implemented a PID attitude controller in MATLAB including gravity-gradient torques  
+  - Simulated nominal and exaggerated disturbances in GEO/LEO; tuned gains for stability and precision
 
 ---
 
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
-
-#### References
-Available upon request.
-
----
+#### Memberships & Activities
+ASME Member | Heritage Chair, Pi Kappa Phi Fraternity | Cornell Boxing Club

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Engineering Ethics Portfolio Essay (MAE 4300)
+title: Engineering Ethics Project (MAE 4300)
 description: A four-week case-study reflection on the Boeing 737 MAX using a structured engineering ethics method
 technologies: [Engineering Ethics, Case Study Analysis, Risk & Safety, Writing]
 image: /assets/images/ethics_thumbnail.jpg
